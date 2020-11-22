@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2020-04-11 18:34:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2020-04-06 22:01:30 +0200"
@@ -420,6 +426,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2020-04-11 18:11:18 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2020-04-06 22:01:30 +0200"
@@ -768,6 +780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2020-04-09 18:16:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-02 14:59:39 +0200"
@@ -963,6 +981,12 @@
   "minecraft:recipes/building_blocks/end_bricks": {
     "criteria": {
       "has_end_stone": "2020-04-02 23:01:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2020-04-11 18:08:53 +0200"
     },
     "done": true
   },
@@ -1287,6 +1311,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2020-04-02 16:30:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2020-04-11 18:34:04 +0200"
     },
     "done": true
   },
