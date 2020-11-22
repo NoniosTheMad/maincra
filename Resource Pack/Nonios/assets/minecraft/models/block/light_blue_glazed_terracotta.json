@@ -1,0 +1,12 @@
+{
+"parent": "block/cube",
+"textures": {
+"particle": "blocks/glazed_terracotta_light_blue",
+"down": "custom_blocks/balrog/b_down",
+"up": "custom_blocks/balrog/b_up",
+"north": "custom_blocks/balrog/b_north",
+"east": "custom_blocks/balrog/b_east",
+"south": "custom_blocks/balrog/b_south",
+"west": "custom_blocks/balrog/b_west"
+}
+}

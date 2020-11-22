@@ -1,0 +1,12 @@
+{
+"parent": "block/cube",
+"textures": {
+"particle": "blocks/glazed_terracotta_yellow",
+"down": "custom_blocks/emerald/emerald",
+"up": "custom_blocks/emerald/emerald",
+"north": "custom_blocks/emerald/emerald",
+"east": "custom_blocks/emerald/emerald",
+"south": "custom_blocks/emerald/emerald",
+"west": "custom_blocks/emerald/emerald"
+}
+}

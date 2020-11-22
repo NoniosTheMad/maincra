@@ -1,0 +1,12 @@
+{
+"parent": "block/cube",
+"textures": {
+"particle": "blocks/glazed_terracotta_white",
+"down": "custom_blocks/frog1/frog_down",
+"up": "custom_blocks/frog1/frog_up",
+"north": "custom_blocks/frog1/frog_north",
+"east": "custom_blocks/frog1/frog_east",
+"south": "custom_blocks/frog1/frog_south",
+"west": "custom_blocks/frog1/frog_west"
+}
+}

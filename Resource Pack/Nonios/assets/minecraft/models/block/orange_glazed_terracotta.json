@@ -1,0 +1,12 @@
+{
+"parent": "block/cube",
+"textures": {
+"particle": "blocks/glazed_terracotta_orange",
+"down": "custom_blocks/reaper/reaper_down",
+"up": "custom_blocks/reaper/reaper_up",
+"north": "custom_blocks/reaper/reaper_north",
+"east": "custom_blocks/reaper/reaper_east",
+"south": "custom_blocks/reaper/reaper_south",
+"west": "custom_blocks/reaper/reaper_west"
+}
+}

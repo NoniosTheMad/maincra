@@ -1,0 +1,12 @@
+{
+"parent": "block/cube",
+"textures": {
+"particle": "blocks/glazed_terracotta_magenta",
+"down": "custom_blocks/monster/m_down",
+"up": "custom_blocks/monster/m_up",
+"north": "custom_blocks/monster/m_north",
+"east": "custom_blocks/monster/m_east",
+"south": "custom_blocks/monster/m_south",
+"west": "custom_blocks/monster/m_west"
+}
+}
