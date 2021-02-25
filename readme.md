@@ -1,9 +1,13 @@
 # Instructions:
 
 -Create Server folder and fully set up for minecraft 1.12.2 version.
+
 -Substitute server.properties file with the one included in repository.
+
 -Substitute world folder with the one included in repository.
+
 -Substitute scoreboard.dat under world/data with the one included in repository.
+
 -Delete all files under world/playerdata.
 
 -Run server. 
